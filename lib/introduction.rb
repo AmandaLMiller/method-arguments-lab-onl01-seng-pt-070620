@@ -7,4 +7,3 @@ def introduction_with_language(name, language)
   program in #{language}."
 end
 
-introduction_with_language("Amanda, Ruby")
